@@ -7,4 +7,4 @@
 * Report available in pdf
 ## Further explorations
 * Finite difference could be implemented for good comparison with time machine assessment *
-* American Asian option and Bermudean option coverage
+* American Asian option and Bermudan option coverage
